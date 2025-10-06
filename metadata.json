@@ -1,0 +1,7 @@
+{
+  "name": "FaceFlow Attendance & Payroll",
+  "description": "A face recognition-based employee attendance system with automated payroll calculation. This MVP allows for employee registration with photo capture, facial recognition for check-in/out, and an admin dashboard for tracking attendance and payroll.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
